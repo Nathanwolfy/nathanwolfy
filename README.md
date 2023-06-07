@@ -6,7 +6,7 @@
 - futures trader and freelance Sierra Chart developper
   
 
-- currently working on various trading algos and custom studies
+- currently working on various trading algos and custom studies for my clients
  
 
 ## skills  
