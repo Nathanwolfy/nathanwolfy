@@ -7,6 +7,9 @@
   
 
 - currently working on various trading algos and custom studies for my clients
+
+
+- studying computer science at 42 Mulhouse
  
 
 ## skills  
